@@ -13,35 +13,41 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/alerdn/alerdn/main/pc.gif"/>
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I working in C#, Java and React
+- 🌱 I learning React Native, NodeJs and Typescript
+- 🎓 I graduate Tec. Computacion e Informatica
+- 🎓 I studing Ing en Informatica
+
 
 
 <div align="center"><br>
 <h2 align="left">Skills</h2><br>
-<img align="center" alt="rgodoyossadon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="left" alt="rgodoyossandon-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img align="left" alt="rgodoyossandon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="left" alt="rgodoyossandon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+
 <img align="left" alt="rgodoyossandon=CSharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg">
 <img align="left" alt="rgodoyossandon=Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
 <img align="left" alt="rgodoyossandon=PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
-<img align="left" alt="rgodoyossandon=Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"><br>
+<img align="left" alt="rgodoyossandon=Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+<br>
+<br>
+<img align="left" alt="rgodoyossadon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="left" alt="rgodoyossandon-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<img align="left" alt="rgodoyossandon-Node" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg">
+<img align="left" alt="rgodoyossandon-MySql" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg">
+<img align="left" alt="rgodoyossandon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="left" alt="rgodoyossandon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<br>
 <h2 align="left">Tools</h2><br>
-<img align="left" alt="rgodoyossandon=CSharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg">
-<img align="left" alt="rgodoyossandon=CSharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg">
-<img align="left" alt="rgodoyossandon=CSharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg">
-<img align="left" alt="rgodoyossandon=CSharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg">
+<img align="left" alt="rgodoyossandon=Vscode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+<img align="left" alt="rgodoyossandon=Vstudio" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg">
+<img align="left" alt="rgodoyossandon=Vim" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-plain.svg">
+<br>
+<h2 align="left">DevOps</h2><br>
+<img align="left" alt="rgodoyossandon=Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
+<img align="left" alt="rgodoyossandon=Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg">
+<img align="left" alt="rgodoyossandon=GitHub" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
+<br>
 <hr>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rgodoyossandon&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="Rodrigo" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=rgodoyossandon&show_icons=true&theme=gruvbox&locale=en" alt="Rodrigo" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rgodoyossandon&show_icons=true&locale=en&layout=compact" alt="Rodrigo" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rgodoyossandon&show_icons=true&locale=en" alt="Rodrigo" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rgodoyossandon&" alt="Rodrigo" /></p>
