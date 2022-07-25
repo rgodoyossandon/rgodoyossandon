@@ -1,8 +1,6 @@
-### Hi there 👋
-
-
-**rgodoyossandon/rgodoyossandon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<h1 align="center">Hi 👋, I'm Rodrigo Godoy</h1>
+<h3 align="center">A developer from Chile</h3>.
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/alerdn/alerdn/main/pc.gif"/>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
