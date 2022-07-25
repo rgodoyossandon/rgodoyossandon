@@ -24,21 +24,20 @@ Here are some ideas to get you started:
 
 
 <div align="center"><br>
- <h2 align="left">Skills</h2><br>
+<h2 align="left">Skills</h2><br>
 <img align="center" alt="rgodoyossadon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="rgodoyossandon-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img align="center" alt="rgodoyossandon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="rgodoyossandon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="rgodoyossandon=CSharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg">
-<img align="center" alt="rgodoyossandon=Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-<img align="center" alt="rgodoyossandon=PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
-<img align="center" alt="rgodoyossandon=Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-  
-  
-<img align="center" alt="rgodoyossandon=CSharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg">
-<img align="center" alt="rgodoyossandon=CSharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg">
-<img align="center" alt="rgodoyossandon=CSharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg">
-<img align="center" alt="rgodoyossandon=CSharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg">
+<img align="left" alt="rgodoyossandon-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<img align="left" alt="rgodoyossandon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="left" alt="rgodoyossandon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="left" alt="rgodoyossandon=CSharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg">
+<img align="left" alt="rgodoyossandon=Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+<img align="left" alt="rgodoyossandon=PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
+<img align="left" alt="rgodoyossandon=Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"><br>
+<h2 align="left">Tools</h2><br>
+<img align="left" alt="rgodoyossandon=CSharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg">
+<img align="left" alt="rgodoyossandon=CSharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg">
+<img align="left" alt="rgodoyossandon=CSharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg">
+<img align="left" alt="rgodoyossandon=CSharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg">
 <hr>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rgodoyossandon&show_icons=true&locale=en&layout=compact" alt="Rodrigo" /></p>
