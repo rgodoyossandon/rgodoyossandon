@@ -51,3 +51,4 @@ Here are some ideas to get you started:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rgodoyossandon&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="Rodrigo" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=rgodoyossandon&show_icons=true&theme=gruvbox&locale=en" alt="Rodrigo" /></p>
 
+![Snake animation](https://github.com/aragaolala/aragaolala/blob/output/github-contribution-grid-snake.svg)
