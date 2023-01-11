@@ -13,7 +13,7 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/alerdn/alerdn/main/pc.gif"/>
 Here are some ideas to get you started:
 
-- 🔭 I working in C#, Java and React
+- 🔭 I working in C#, Java and Python
 - 🌱 I learning React Native, NodeJs and Typescript
 - 🎓 I graduate Tec. Computacion e Informatica
 - 🎓 I studing Ing en Informatica
