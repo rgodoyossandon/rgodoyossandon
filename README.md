@@ -8,7 +8,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Rodrigo Godoy</h1>
+<h1 align="center">Hi👋, I'm Rodrigo Godoy</h1>
 <h3 align="center">A developer from Chile</h3>.
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/alerdn/alerdn/main/pc.gif"/>
 Here are some ideas to get you started:
