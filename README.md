@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rgodoyossandon/rgodoyossandon/main/assets/banner-etherion.png" width="100%" alt="Etherion Forge Studio Banner" />
+  <img src="https://raw.githubusercontent.com/rgodoyossandon/rgodoyossandon/main/assets/Gemini_Generated_Image_d8axhkd8axhkd8ax.png" width="100%" alt="Etherion Forge Studio Banner" />
 
   # Rodrigo Godoy Ossandón
   ### Software Engineer | Backend & Full-Stack Developer | Founder @ Etherion Forge Studio
