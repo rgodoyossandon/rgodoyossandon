@@ -1,37 +1,50 @@
-# Rodrigo Godoy Ossandón
-### Software Engineer | Backend & Full-Stack Developer | Founder @ Etherion Forge Studio
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rgodoyossandon/rgodoyossandon/main/assets/banner-etherion.png" width="100%" alt="Etherion Forge Studio Banner" />
 
-Desarrollador de software enfocado en sistemas backend robustos, arquitectura limpia y optimización de rendimiento. Con experiencia en la construcción de herramientas de negocio y automatización con C# (.NET Core) y Python, y desarrollo interactivo con Unity. Graduado con Distinción Máxima en Computación e Informática y con especialización en Machine Learning por la Universidad de Chile (FCFM).
-
----
-
-### 💻 Stack Tecnológico Principal
-
-- **Backend & Lenguajes:** C# (.NET 8 / ASP.NET Core), Python, TypeScript, JavaScript (ES6+ / V8 Engine), SQL.
-- **Arquitectura & APIs:** Clean Architecture, RESTful APIs, Entity Framework Core, Microservicios básicos.
-- **Bases de Datos:** PostgreSQL, Microsoft SQL Server, modelado relacional y tuning de consultas.
-- **Frontend & Web:** Angular, HTML5, CSS3/SASS, Astro.
-- **Game Engineering:** C# en Unity (Patrones State, Observer, Factory; optimización de Garbage Collector).
-- **Herramientas & Entornos:** Git, GitHub Actions, Docker, Linux (Ubuntu/Debian), Postman.
+  # Rodrigo Godoy Ossandón
+  ### Software Engineer | Backend & Full-Stack Developer | Founder @ Etherion Forge Studio
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-godoy-dev)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rgodoyossandon@gmail.com)
+  [![Ubicación](https://img.shields.io/badge/Iquique-Chile-blue?style=flat&logo=google-maps&logoColor=white)](#)
+</div>
 
 ---
 
-### 📌 Proyectos Destacados
+### 💼 Sobre Mí
 
-#### [Sigel - Sistema de Gestión Escolar & Reportería](https://github.com/rgodoyossandon/sigel)
-> *Plataforma backend desarrollada para la digitalización y seguimiento de procesos académicos institucionales.*
-- **Tecnologías:** Python, SQL, Arquitectura Modular.
-- **Impacto:** Eliminación de flujos manuales en planillas y generación de reportería operativa en tiempo real.
+Ingeniero de Software enfocado en la construcción de sistemas backend de alta disponibilidad, herramientas de optimización empresarial y arquitectura de software orientada a objetos. Graduado con Distinción Máxima en Computación e Informática y con formación especializada en Machine Learning y Data Science por la Universidad de Chile (FCFM).
 
-#### [Etherion Core Engine / RetroLogix](https://github.com/rgodoyossandon/RetroLogix)
-> *Módulos y arquitectura de juego 2D/3D desarrollada bajo el sello de Etherion Forge Studio.*
-- **Tecnologías:** C#, Unity, State Machines desacopladas.
-- **Impacto:** Arquitectura orientada a eventos con consumo de memoria controlado para garantizar 60 FPS estables.
+Actualmente dirijo **Etherion Forge Studio**, diseñando arquitectura modular y sistemas de alto rendimiento en **C#**.
 
 ---
 
-### 🌐 Conecta Conmigo
+### 🛠️ Core Tech Stack
 
-- **LinkedIn:** [linkedin.com/in/rodrigo-godoy-dev](https://www.linkedin.com/in/rodrigo-godoy-o-3bbb1622b/)
-- **Email:** rgodoyossandon@gmail.com
-- **Ubicación:** Iquique, Chile (Disponible para trabajo 100% remoto)
+<div align="left">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</div>
+
+---
+
+### ⚡ Actualmente Desarrollando
+
+- [x] **Sigel:** Plataforma de digitalización y reportería académica interna (Python / SQL).
+- [ ] **Full-Stack Enterprise API:** Arquitectura limpia con ASP.NET Core Web API, Entity Framework Core y cliente en Angular.
+- [ ] **Etherion Core Gameplay Framework:** Arquitectura desacoplada basada en patrones de diseño y optimización de memoria en C#.
+
+---
+
+### 📊 Actividad Técnica
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rgodoyossandon&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rgodoyossandon&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+</div>
